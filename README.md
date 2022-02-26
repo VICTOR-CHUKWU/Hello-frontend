@@ -1,6 +1,23 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![](https://img.shields.io/badge/Microverse-blueviolet)
+
+# Project Name
+## Rails React Front end App
+- This is basic project for understanding react-rails working together.
+- React serves as the front end while rails serves as the backend
+- API created with ruby on rails.
+- After refreshing page it gets random greetings from the Api and displays in home page
+
+## Built With
+* Ruby on Rails
+* React
+* Redux
+* Psql
+
+## Author
+👤 **Victor**
+- GitHub: [@VICTOR-CHUKWU](https://github.com/VICTOR-CHUKWU)
+- LinkedIn: [Victor-chukwu](https://www.linkedin.com/in/victor-chukwu-95a020143)
 
 ## Available Scripts
 
